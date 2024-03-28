@@ -19,7 +19,7 @@ To install the theme download the color scheme file and copy it to konsole direc
 ```bash
 mkdir -p ~/.local/share/konsole
 cd ~/.local/share/konsole
-curl -o Whiskers-Panther.colorscheme https://raw.githubusercontent.com/Whiskers-Color-Scheme/konsole/main/src/panther.colorscheme
+curl -o Whiskers-Panther.colorscheme https://raw.githubusercontent.com/Whiskers-Color-Scheme/konsole/master/src/panther.colorscheme
 ```
 
 🐯 Tiger
@@ -27,7 +27,7 @@ curl -o Whiskers-Panther.colorscheme https://raw.githubusercontent.com/Whiskers-
 ```bash
 mkdir -p ~/.local/share/konsole
 cd ~/.local/share/konsole
-curl -o Whiskers-Tiger.colorscheme https://raw.githubusercontent.com/Whiskers-Color-Scheme/konsole/main/src/tiger.colorscheme
+curl -o Whiskers-Tiger.colorscheme https://raw.githubusercontent.com/Whiskers-Color-Scheme/konsole/master/src/tiger.colorscheme
 ```
 
 ## 💻 Maintainers
